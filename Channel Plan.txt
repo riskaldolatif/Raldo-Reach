@@ -8,4 +8,11 @@ CHANNEL PLAN
 - Melakukan pembaruan channel
 - Menyediakan forum komunitas
 - Membuat Channel Membership
+  * Custom emoji khusus channel
+  * Badge loyalty channel
+  * discord khusus channel
 - Membuat vlog pribadi
+- Selalu up to date dengan perkembangan komunitas game mobile
+- Memiliki konten video profesional
+
+
