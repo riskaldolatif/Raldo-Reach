@@ -8,4 +8,7 @@ CHANNEL PLAN
 - Melakukan pembaruan channel
 - Menyediakan forum komunitas
 - Membuat Channel Membership
+  *Custom emoji khusus channel
+  *Badge loyalty channel
 - Membuat vlog pribadi
+- Mencapai target 1000 video dalam setahun
