@@ -5,3 +5,4 @@ RALDO RESOLUSI
 - Membuat aplikasi yang berguna untuk orang banyak
 - Membuat game mobile dan mempublikasikannya di app market
 - Berusaha memperbanyak relasi antar sesama developer
+- Membuat sistem informasi yang bisa menyelesaikan masalah orang banyak
