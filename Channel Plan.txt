@@ -10,9 +10,7 @@ CHANNEL PLAN
 - Membuat Channel Membership
   * Custom emoji khusus channel
   * Badge loyalty channel
-  * discord khusus channel
-- Membuat vlog pribadi
 - Selalu up to date dengan perkembangan komunitas game mobile
 - Memiliki konten video profesional
-
-
+- Membuat vlog pribadi
+- Mencapai target 1000 video dalam setahun
